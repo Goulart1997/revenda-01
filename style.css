@@ -1,7 +1,12 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url(velozes\ 2.avif);
+    background-size: 500px;
 }
+
+
+
 img{
     float: left;
     margin-right: 12px;
@@ -36,6 +41,7 @@ table{
     border-collapse: collapse;
     width: 80%;
     margin: auto;
+    color: #ededed;
 
 }
 tr,th,td{
