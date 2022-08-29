@@ -1,8 +1,15 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(velozes\ 2.avif);
-    background-size: 500px;
+    background-image: url(luca-david-HjXbVnnITvE-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
+    
+    
+   
 }
 
 
@@ -33,7 +40,7 @@ nav ul li a{
 }
 nav ul li a:hover{
     background-color: #ededed;
-    color: rgb(127, 255, 234);
+    color: rgb(255, 174, 127);
     border-bottom: 3px solid #f00;
 }
 table{
